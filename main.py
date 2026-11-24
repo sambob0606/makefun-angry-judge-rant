@@ -16,8 +16,8 @@ RANT = (
     "The self-checkout screamed 'UNEXPECTED ITEM IN THE BAGGING AREA' "
     "at a bag of apples. Apples. I scanned them. I bagged them. I did "
     "everything right, and this glowing robot still treated me like a "
-    "fruit smuggler. Then it froze, beeped, and summoned a human -- the "
-    "one job it was built to replace. I paid full price to do its job "
+    "fruit smuggler on parole. Then it froze, beeped, and summoned a human -- the "
+    "one job it was built to replace. I did its job "
     "and get accused of theft. Cashier, take me back."
 )
 
